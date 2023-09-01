@@ -7,6 +7,7 @@
   <h4>I am a student at the Gyeongbuk Software High School</h4>
   <h4>👇👇 My Introduction Link 👇👇</h4>
   <a href="https://www.instagram.com/itsyunsung" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://discord.com/users/839504073304440862" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
   <a href="https://itsyunsung.notion.site/ff1faa4c751545c9afd1620d37b87142?v=fb52d2733834448ba3c657c814eabc60&p" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <a href="https://github.com/Yunseong-kr" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </div>
