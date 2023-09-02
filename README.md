@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <br>
   <h5>❎ learning ❎</h5>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C Sharp&logoColor=white"/>
