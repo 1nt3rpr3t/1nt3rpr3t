@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C Sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-
+        <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=Flask&logoColor=white"/>
 </div>
 
 <br>
