@@ -1,32 +1,33 @@
 ```Java
  1  public class Main {
  2      public static void main(String[] args) {
- 3          information();
- 4          Tack_Stack();
- 5          Awords();
- 6      }
- 7
- 8      public static void information(){
- 9          System.out.println("Hello My Github!");
-10          System.out.println("My name is Yunseong Jeong And I'm 17 years old");
-11          System.out.println("I am a student at the Gyeongbuk Software High School");
-12      }
-13
-14      public static void information2(){
-15          System.out.println("discord: itsyunseong");
-16          System.out.println("Instagram: its_yunseong");
-17          System.out.println("Email: yunseong.me@gmail.com");
-18      }
-19
-20      public static void Tack_Stack(){
-21          String[] can_use = new String[]{"C", "Python", "Java", "Html", "Css"};
-22          String[] learning = new String[]{ "Spring", "Flask", "MySql" };
-23      }
-24
-25      public static void Awords(){
-26          String Aword1 = ("경상북도 창업아이디어 경진대회 금상");
-27      }
-28  }
+ 3          information1();
+ 4          information2();
+ 5          Tack_Stack();
+ 6          Awords();
+ 7      }
+ 8
+ 9      public static void information1 (){
+10          System.out.println("Hello My Github!");
+11          System.out.println("My name is Yunseong Jeong And I'm 17 years old");
+12          System.out.println("I am a student at the Gyeongbuk Software High School");
+13      }
+14
+15      public static void information2 (){
+16          System.out.println("discord: itsyunseong");
+17          System.out.println("Instagram: its_yunseong");
+18          System.out.println("Email: yunseong.me@gmail.com");
+19      }
+20
+21      public static void Tack_Stack (){
+22          String[] can_use = new String[]{"C", "Python", "Java", "Html", "Css"};
+23          String[] learning = new String[]{ "Spring", "Flask", "MySql" };
+24      }
+25
+26      public static void Awords (){
+27          String Aword1 = ("경상북도 창업아이디어 경진대회 금상");
+28      }
+29  }
 ```  
 
 ### SNS Link
