@@ -23,7 +23,6 @@ public class Main {
 }
 ```  
 
-### My information
 #### 👇👇 Click!! 👇👇
 <div>
   <a href="https://www.instagram.com/its_yunseong" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" target="_blank"/></a>
