@@ -1,26 +1,32 @@
 ```Java
-public class Main {
-    public static void main(String[] args) {
-        information();
-        Tack_Stack();
-        Awords();
-    }
-
-    public static void information(){
-        System.out.println("Hello My Github!");
-        System.out.println("My name is Yunseong Jeong And I'm 17 years old");
-        System.out.println("I am a student at the Gyeongbuk Software High School");
-    }
-
-    public static void Tack_Stack(){
-        String[] can_use = new String[]{"C", "Python", "Java", "Html", "Css"};
-        String[] learning = new String[]{ "Spring", "Flask", "MySql" };
-    }
-
-    public static void Awords(){
-        String Aword1 = ("경상북도 창업아이디어 경진대회 금상");
-    }
-}
+ 1  public class Main {
+ 2      public static void main(String[] args) {
+ 3          information();
+ 4          Tack_Stack();
+ 5          Awords();
+ 6      }
+ 7
+ 8      public static void information(){
+ 9          System.out.println("Hello My Github!");
+10          System.out.println("My name is Yunseong Jeong And I'm 17 years old");
+11          System.out.println("I am a student at the Gyeongbuk Software High School");
+12      }
+13
+14      public static void information2(){
+15          System.out.println("discord: itsyunseong");
+16          System.out.println("Instagram: its_yunseong");
+17          System.out.println("Email: yunseong.me@gmail.com");
+18      }
+19
+20      public static void Tack_Stack(){
+21          String[] can_use = new String[]{"C", "Python", "Java", "Html", "Css"};
+22          String[] learning = new String[]{ "Spring", "Flask", "MySql" };
+23      }
+24
+25      public static void Awords(){
+26          String Aword1 = ("경상북도 창업아이디어 경진대회 금상");
+27      }
+28  }
 ```  
 
 ### SNS Link
