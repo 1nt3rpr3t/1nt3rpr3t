@@ -20,14 +20,15 @@
 19      }
 20
 21      public static void Tack_Stack (){
-22          String[] can_use = new String[]{"C", "Python", "Java", "Html", "Css"};
+22          String[] can_use = new String[]{ "C", "Python", "Java", "Html", "Css" };
 23          String[] learning = new String[]{ "Spring", "Flask", "MySql" };
-24      }
-25
-26      public static void Awords (){
-27          String Aword1 = ("경상북도 창업아이디어 경진대회 금상");
-28      }
-29  }
+24          String[] use_tool = new String[]{ "Git", "Intellij", "Eclipse", "vscode" }
+25      }
+26
+27      public static void Awords (){
+28          String Aword1 = ("경상북도 창업아이디어 경진대회 금상");
+29      }
+30  }
 ```  
 
 ### SNS Link
