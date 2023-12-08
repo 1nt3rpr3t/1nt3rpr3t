@@ -26,7 +26,7 @@
 25      }
 26
 27      public static void Awords (){
-28          String Aword1 = ("경상북도 창업아이디어 경진대회 금상");
+28          String Aword1 = ("경상북도 창업아이디어 경진대회 금상(1위)");
 29      }
 30  }
 ```  
