@@ -1,5 +1,5 @@
 ```Java
-01  public class GithubIntroduction {
+01  public class Introduction {
 02      private final String name;
 03      private final String school;
 04      private final String discord;
@@ -10,7 +10,7 @@
 09      private final String[] tools;
 10      private final String[] award;
 11      
-12      public GithubIntroduction() {
+12      public Introduction() {
 13          this.name = "Yunseong Jeong";
 14          this.school = "Gyeongbuk Software High School";
 15          this.discord = "itsyunseong";
