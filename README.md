@@ -16,7 +16,7 @@
 15          this.discord = "itsyunseong";
 16          this.instagram = "its_yunseong";
 17          this.email = "yunseong.me@gmail.com";
-18          this.languages = new String[]{ "C", "Python", "Java", "Html", "Css" };
+18          this.languages = new String[]{ "C", "Python", "Java", "Html", "Css", "Js" };
 19          this.learning = new String[]{ "Spring", "Flask", "MySql" };
 20          this.tools = new String[]{ "Git", "Intellij", "Eclipse", "vscode" };
 21          this.award = new String[]{"경상북도 창업아이디어 경진대회 금상(1위)"};
