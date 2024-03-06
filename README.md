@@ -18,6 +18,7 @@
 
 <div align="center">
   <h2>Watch me</h2>
+    <a href="https://devyun.kro.kr" target="_blank"><img src="https://img.shields.io/badge/About Me-333333?style=flat-square&logo=aboutdotme&logoColor=white" target="_blank"/></a>
     <a href="https://yunseong-kr.notion.site/e0a6f6fd4e364dfcb87d69c8045b9d37?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" target="_blank"/></a>
 </div>
 
