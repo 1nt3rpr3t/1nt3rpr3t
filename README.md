@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yunseong-dev&custom_title=Yunseong's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="devyun-kr" />&nbsp;&nbsp;<img height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yunseong-dev&custom_title=Yunseong's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="devyun-kr" />&nbsp;&nbsp;<img height="200px">
 </p>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=devyun-kr-git&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=Yunseong-dev-git&style=flat-square)
 
 - I'am student developer<br>
 "Maybe I'll be a backend developer"
