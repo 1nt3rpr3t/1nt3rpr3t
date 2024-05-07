@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Yunseong-dev&custom_title=Yunseong's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="devyun-kr" />&nbsp;&nbsp;<img height="200px">
-</p>
+![Yunseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunseong-dev&show_icons=true&bg_color=00000000&custom_title=Yunseong's%20GitHub%20statistics)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Yunseong-dev-git&style=flat-square)
 
