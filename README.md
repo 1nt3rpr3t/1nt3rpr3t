@@ -11,7 +11,7 @@ I'm 18 Junior Backend Developer
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,python,aws,mysql,git,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,aws,mysql,git,idea,vscode" />
   </a>
   <br/>
 </p>
@@ -19,7 +19,7 @@ I'm 18 Junior Backend Developer
 ### 📕 Learn
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=kotlin,python,docker,figma" />
   </a>
   <br/>
 </p>
