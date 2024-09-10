@@ -1,6 +1,6 @@
 > [!Note]
-**Hi there!\
-I'm [Yun](https://devyun.kro.kr) (Jeong Yunseong) 👋**
+**Hi there! 👋\
+I'm [Yun](https://devyun.kro.kr) (Jeong Yunseong)**
 \
 \
 I'm 18 Junior Backend Developer
