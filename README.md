@@ -26,7 +26,7 @@ I'm 18 Junior Backend Developer
 
 <br/>
 <div style="display: flex; align-items: center;">
-   <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=d1s4bl3&show_icons=true&theme=light" />
-   <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1s4bl3&layout=compact&theme=light" />
+   <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=1nt3rpr3t&show_icons=true&theme=light" />
+   <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nt3rpr3t&layout=compact&theme=light" />
 </div>
 
